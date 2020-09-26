@@ -1,0 +1,4 @@
+enum Modos {
+  UnJugador,
+  DosJugadores,
+}
