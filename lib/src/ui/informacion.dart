@@ -87,7 +87,7 @@ class _InformacionState extends State<Informacion> {
                   Padding(
                     padding: EdgeInsets.only(bottom: 60),
                     child: texto(
-                        "Cada uno tendréis vuestra pantalla.\nDadle al boton central para comenzar y despues de obtener cada resultado para seguir si vuestro modo es Mejor de 3 o Mejor de 5\nEn este caso no se guardarán estadísticas",
+                        "Cada uno tendréis vuestra pantalla.\nDadle al botón central para comenzar y después de obtener cada resultado para seguir, si vuestro modo es Mejor de 3 o Mejor de 5\nEn este caso no se guardarán estadísticas",
                         25,
                         Alignment.center,
                         Colors.white),
