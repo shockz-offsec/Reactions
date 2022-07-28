@@ -82,7 +82,3 @@ Versiones Android 4.1+ (API:16) hasta Android 10+ (API:30)
 ### APK 🔧
 
 Puedes descargar la APK desde el apartado "Releases".
-
-## Autor ✒️
-
-* **Jorge Manuel Lozano Gómez**
