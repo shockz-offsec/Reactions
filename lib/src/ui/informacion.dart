@@ -238,7 +238,7 @@ class _InformacionState extends State<Informacion> {
                 children: <Widget>[
                   Padding(
                     padding: EdgeInsets.symmetric(vertical: 25),
-                    child: texto('Desarrollador :\nJorge Manuel Lozano Gómez',
+                    child: texto('Desarrollador :\nShockz',
                         25, Alignment.centerLeft, Colors.white),
                   ),
                   Padding(
