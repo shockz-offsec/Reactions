@@ -1,5 +1,5 @@
 /*
- * Autor: jmlgomez73
+ * Autor: shockz-offsec
  */
 
 import 'package:flutter/cupertino.dart';
@@ -243,7 +243,7 @@ class _InformacionState extends State<Informacion> {
                   ),
                   Padding(
                     padding: EdgeInsets.symmetric(vertical: 25),
-                    child: texto('E-mail de contacto :\njmlgomez73@gmail.com',
+                    child: texto('E-mail de contacto :\nshockz-offsec@gmail.com',
                         25, Alignment.centerLeft, Colors.white),
                   ),
                   Padding(

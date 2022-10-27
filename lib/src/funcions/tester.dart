@@ -1,5 +1,5 @@
 /*
- * Autor: jmlgomez73
+ * Autor: shockz-offsec
  */
 
 import 'package:rxdart/rxdart.dart';
